@@ -1,5 +1,5 @@
 body{
-    background-color: blueviolet;
+    background-color: rgb(255, 255, 255);
 }
 * {
     margin: 0;
@@ -7,7 +7,7 @@ body{
 }
 
 .cabecalho {
-    background-color: #424E61;
+    background-color: #1f53a7;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -15,23 +15,10 @@ body{
     padding: 24px 0;
 }
 
-.cabecalho-imagem{
-    width: 15%;
-}
-
-.cabecalho-lista-item{
-    display: inline-block;
-    margin: 0 16px;
-    font-size: 20px;
-}
-
-.escola-imagem{
-    width: 25%;
-}
 
 .escola{
-    background-image: linear-gradient(#424E61,#16CFF8);
-    color:white;
+    background-image: linear-gradient(#1f53a7,#0b6eca);
+    color:rgb(255, 255, 255);
     display: flex;
     justify-content: center;
     align-items: center;
